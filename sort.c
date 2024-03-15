@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// Comment
+
 int extraMemoryAllocated;
 
 void *Alloc(size_t sz)
